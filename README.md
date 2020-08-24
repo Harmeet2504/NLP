@@ -4,9 +4,9 @@ This repo deals with the basic concepts and python codes for mining of text data
 
 * Stemming
 * Lemmatization
-Stop words
-Parts of speech tagging
-EDA
-Bag-of-words
-Document term matrix
+* Stop words
+* Parts of speech tagging
+* EDA
+* Bag-of-words
+* Document term matrix
 
