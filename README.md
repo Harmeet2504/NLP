@@ -2,7 +2,7 @@
 
 This repo deals with the basic concepts and python codes for mining of text data using python and its open source libraries (NLTK, SpaCy, Gensim, TextBlob). The objective is to use machine learning and deep learning approaches for important Natural Language Processing techniques like Sentiment analysis and Topic modeling. The repo will be updated regularly as progress is made:
 
-Key concepts/terminologies:
+## Key concepts/terminologies:
 
 * Stemming: Usually the first step in pre-processing. A stemmer function converts words to corresponding root word. Eg. Responsive, Unresponsive, Respond, Responsible would be converted to respon.
 * Lemmatization: Similar to stemming,difference being stemming usually refers to a crude heuristic process that chops off the ends of words in the hope of achieving its goal correctly most of the time, and often includes the removal of derivational affixes. Lemmatization usually refers to doing things properly with the use of a vocabulary and morphological analysis of words, normally aiming to remove inflectional endings only and to return the base or dictionary form of a word, which is known as the lemma .
