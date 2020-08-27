@@ -24,6 +24,9 @@ Eg. Text1: Sunny day
 * TFIDF: TF-Term frequency: assigns weights to words proportional to their frequency within a document. IDF-Inverse Document Frequency: assigns weights to words inversely proportional to their frequency within a corpus. Rare words get more weight as they will likely give more sense to the corpus than common and most frequently occurring ones
 * Parts of speech tagging: A Part-Of-Speech Tagger (POS Tagger) is a program that reads text data and assigns parts of speech to each word (and other token), such as noun, verb, adjective, etc., although generally computational applications use more fine-grained POS tags like 'noun-plural'. POS-tagging algorithms fall into two distinctive groups: rule-based and stochastic.
 
+## References:
+* https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/
+* Wikipedia
 
 
 
