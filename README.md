@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-This repo deals with the basic concepts and python codes for mining of text data using python and its open source libraries (NLTK, SpaCy, Gensim, TextBlob). The objective is to use machine learning and deep learning approaches for important Natural Language Processing techniques like Sentiment analysis and Topic modeling. The repo will be updated regularly as progress is made:
+This repo deals with the basic concepts and python codes for mining of text data using python and its open source libraries (NLTK, SpaCy, Gensim, TextBlob). The objective is to use machine learning and deep learning approaches for important Natural Language Processing techniques like Sentiment analysis, NER and Topic modeling. The long term goal is to extract entitites and topics from medical transcripts. The repo will be updated regularly as progress is made:
 
 ## Key concepts/terminologies:
 
@@ -25,8 +25,9 @@ Eg. Text1: Sunny day
 * Parts of speech tagging: A Part-Of-Speech Tagger (POS Tagger) is a program that reads text data and assigns parts of speech to each word (and other token), such as noun, verb, adjective, etc., although generally computational applications use more fine-grained POS tags like 'noun-plural'. POS-tagging algorithms fall into two distinctive groups: rule-based and stochastic.
 
 ## References:
+* [SNOMED] https://docs.snomed.org/snomed-ct-practical-guides/snomed-ct-data-analytics-guide/5-preparing-data-for-analytics/5.1-natural-language-processing
 * https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/
-* Wikipedia
+
 
 
 
